@@ -359,7 +359,7 @@ sudo grep '"id":"100500"' /var/ossec/logs/alerts/alerts.json | tail -3
 
 The Slack notification confirms that the alert context was successfully passed to the AI Agent and displayed in Slack.
 
-![Slack alert showing Hostname and User](slack-alert-output.png)
+![Slack alert showing Hostname and User](Slack.png)
 
 
 **Documented results**
