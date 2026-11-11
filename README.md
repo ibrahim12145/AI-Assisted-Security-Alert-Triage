@@ -189,7 +189,7 @@ The condition is `rule_level >= 9`. This means alerts with a Wazuh rule level of
 > `{{ $('Webhook').item.json.body.rule.level }}` *is greater than or equal to* `10`.
 > The threshold was lowered after a level-9 alert was blocked ([Troubleshooting → item 2](#troubleshooting)). The current condition reads the `rule_level` field produced by Extract Alert Context: `{{ $json.rule_level }}` *is greater than or equal to* `9`.
 
-![n8n IF Node threshold test](if-node-threshold-test.png)
+![n8n IF Node threshold test](IF-Node.png)
 
 *IF node configured with `{{ $json.rule_level }}` ≥ `9`. The test input is a level-9 Wazuh alert (rule `19005`, `rule_level = 9`), and the execution result shows it passing to the **True Branch (1 item)**.*
 
