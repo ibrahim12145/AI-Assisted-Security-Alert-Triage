@@ -293,7 +293,7 @@ The accompanying project PDF contains the detailed, screenshot-based walkthrough
 
 ## Author
 
-**[Your Name]**  
+**[Ibrahim Elsaeed Elmenshawy]**  
 Cybersecurity | SOC | SIEM | Security Automation
 
 Add your LinkedIn profile, repository links, and any additional project links here.
