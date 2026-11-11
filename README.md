@@ -295,9 +295,3 @@ The accompanying project PDF contains the detailed, screenshot-based walkthrough
 
 **[Ibrahim Elsaeed Elmenshawy]**  
 Cybersecurity | SOC | SIEM | Security Automation
-
-Add your LinkedIn profile, repository links, and any additional project links here.
-
----
-
-*This README was prepared from the accompanying project documentation. Verify environment-specific values, thresholds, credentials, and configuration syntax against your actual lab before reuse.*
